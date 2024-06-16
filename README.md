@@ -1,8 +1,8 @@
 # Highway-service-system
 
+
 ![image](https://github.com/Pranoom18/Highway-service-system/assets/94820532/1971b064-b10b-4c8e-8cae-c0c0390ca7ba)
 
-# Highway Management Service
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
